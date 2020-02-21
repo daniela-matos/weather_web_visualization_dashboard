@@ -1,7 +1,15 @@
-Web Visualization Dashboard (Latitude) - Using HTML, CSS and Bootstrap.
-This website attempts to answer the question - What's the weather like as we approach the equator? by providing visualizations of the possible relationships between the location of cities (considering full range of latitudes) and four environmental factors (temperature, humidity, cloudiness and windspeed). 
+Web Visualization Dashboard - Using HTML, CSS and Bootstrap.
+This website attempts to answer the question - What's the weather like as we approach the equator? 
+The data was pulled from OpenWeatherMap API and for the analysis I compared four environmental factors: temperature, humidity, cloudiness and windspeed. 
 
-This project visualize the weather of 500+ cities across the world of varying distance from the equator. The data was pulled from OpenWeatherMap API.
+To create the webpage I used this website as reference:
+
+https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+https://hackerthemes.com/bootstrap-cheatsheet/
+
+https://www.w3schools.com/css/css_table.asp
+
 
 
 Click here to view: https://daniela-matos.github.io/weather_web_visualization_dashboard/wind.html 
