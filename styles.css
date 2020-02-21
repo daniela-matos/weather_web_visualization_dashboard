@@ -99,7 +99,7 @@ th {
   clear: both;
 }
 
-.my_bottom {
+.fixed-bottom {
     bottom: 0;
     height: 2em;
     right: 0;
