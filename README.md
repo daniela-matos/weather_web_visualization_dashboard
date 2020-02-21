@@ -3,7 +3,7 @@
 This website attempts to answer the question - What's the weather like as we approach the equator? 
 The data was pulled from OpenWeatherMap API and for the analysis I compared four environmental factors: temperature, humidity, cloudiness and windspeed. 
 
-To create the webpage I used this website as reference:
+To create the webpage I used these websites as reference:
 
 https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
