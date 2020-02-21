@@ -1,4 +1,5 @@
-Web Visualization Dashboard - Using HTML, CSS and Bootstrap.
+## Web Visualization Dashboard - Using HTML, CSS and Bootstrap.
+
 This website attempts to answer the question - What's the weather like as we approach the equator? 
 The data was pulled from OpenWeatherMap API and for the analysis I compared four environmental factors: temperature, humidity, cloudiness and windspeed. 
 
@@ -11,5 +12,6 @@ https://hackerthemes.com/bootstrap-cheatsheet/
 https://www.w3schools.com/css/css_table.asp
 
 
+#### Click here to view the page: https://daniela-matos.github.io/weather_web_visualization_dashboard/index.html
 
-Click here to view the page: https://daniela-matos.github.io/weather_web_visualization_dashboard/index.html
+![Page](assets/images/page.png)
