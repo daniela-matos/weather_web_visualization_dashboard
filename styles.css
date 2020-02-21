@@ -99,5 +99,13 @@ th {
   clear: both;
 }
 
-
-  
+.my_bottom {
+    bottom: 0;
+    height: 2em;
+    right: 0;
+    left: 0;
+    position: fixed; 
+    font-size: small;
+    width:100%;
+    z-index: 1030
+}
