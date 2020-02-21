@@ -12,4 +12,4 @@ https://www.w3schools.com/css/css_table.asp
 
 
 
-Click here to view the page: 
+Click here to view the page: https://daniela-matos.github.io/weather_web_visualization_dashboard/index.html
