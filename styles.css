@@ -3,7 +3,7 @@
 html, body {
   height: 100%;
   width: 100%;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Verdana", "sans-serif", "Helvetica Neue";
   color: #222;
   background-color: #EDEDED; 
 }
