@@ -11,6 +11,7 @@ https://hackerthemes.com/bootstrap-cheatsheet/
 
 https://www.w3schools.com/css/css_table.asp
 
+http://convertcsv.com/csv-to-html.htm (to convert the csv to html)
 
 #### Click here to view the page: https://daniela-matos.github.io/weather_web_visualization_dashboard/index.html
 
